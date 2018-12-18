@@ -1,8 +1,10 @@
 <?php
 
 class Page {
-	
-	public $title;
+    public $test = "18-12 10-35"
+
+
+    public $title;
 	public $content;
 	public $footer;
 	
